@@ -7,3 +7,5 @@ git add - . para adicionar todos arquivos ou -a
 git status - para verificar se o repositório está atualizado
 
 git commit - -m para colocar mensagem e atualizar o repositório
+
+git push - para enviar o commit
