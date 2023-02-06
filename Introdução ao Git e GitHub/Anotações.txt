@@ -1,0 +1,9 @@
+Link para download do git: https://git-scm.com/downloads
+
+git clone - "link do repositorio para clonar"
+
+git add - . para adicionar todos arquivos ou -a
+
+git status - para verificar se o repositório está atualizado
+
+git commit - -m para colocar mensagem e atualizar o repositório
